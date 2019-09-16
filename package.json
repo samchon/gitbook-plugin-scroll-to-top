@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-scroll-to-top",
+  "description": "Gitbook Plugin - Scroll to top when page loaded",
+  "author": {
+    "name": "Jeongho Nam",
+    "email": "samchon@samchon.org",
+    "url": "http://samchon.org"
+  },
+  "version": "0.0.0",
+  "main": "index.js",
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samchon/gitbook-plugin-scroll-to-top.git"
+  },
+  "keywords": [
+    "gitbook-plugin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samchon/gitbook-plugin-scroll-to-top/issues"
+  },
+  "homepage": "https://github.com/samchon/gitbook-plugin-scroll-to-top#readme"
+}
